@@ -8,12 +8,28 @@ export const Questions =[
       answer:'B' 
     },
     {
+      prompt:'She was working on her computer with her baby next to _____.',
+      optionA:'herself',  
+      optionB:'her',  
+      optionC:'her own',  
+      optionD:'hers', 
+      answer:'B' 
+    },
+    {
       prompt:'which is a streaming Platform?',
       optionA:'Twitter',  
       optionB:'Twitch',  
       optionC:'Google',  
       optionD:'Robinhood', 
       answer:'B' 
+    },
+    {
+      prompt:'I wish I _____ those words. But now its too late.',
+      optionA:'not having said',  
+      optionB:'have never said',  
+      optionC:'never said',  
+      optionD:'had never said', 
+      answer:'D'
     },
     {
       prompt:'Best tech youtube channel',
@@ -23,5 +39,13 @@ export const Questions =[
       optionD:'TechWithTim', 
       answer:'A' 
     },
+  {
+    prompt:'I am very happy _____ in India. I really miss being there.',
+    optionA:'to live',  
+    optionB:'to have lived',  
+    optionC:'to be lived',  
+    optionD:'to be living', 
+    answer:'B' 
+  },
    
 ];
